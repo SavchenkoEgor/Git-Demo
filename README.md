@@ -4,4 +4,4 @@
 
 Some ***text***
 
-Link to [STEAM] (https://steamcommunity.com/id/Smile2022/).
+Link to [STEAM](https://steamcommunity.com/id/Smile2022/).
