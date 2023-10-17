@@ -1,0 +1,47 @@
+[33mcommit 33059da9bbbdbcb0b4016f8009dd1beae81f9bda[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Yehor Savchenko <20github23@gmail.com>
+Date:   Tue Oct 17 19:42:23 2023 +0300
+
+    Rename READMY
+
+[33mcommit 0755655a86643004c82e3146c8c40faff41471c5[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Yehor Savchenko <20github23@gmail.com>
+Date:   Tue Oct 17 19:37:29 2023 +0300
+
+    Add README
+
+[33mcommit 9eed561b02b83caedb6a13375a51fb5366aea4a2[m[33m ([m[1;31morigin-second/main[m[33m)[m
+Author: Yehor Savchenko <20github23@gmail.com>
+Date:   Tue Oct 17 17:04:57 2023 +0300
+
+    Add.gitignore
+
+[33mcommit 7f72221ff1d71519e236215291a4c3de9bfaa717[m
+Author: Yehor Savchenko <20github23@gmail.com>
+Date:   Tue Oct 17 16:14:35 2023 +0300
+
+    Modify info txt
+
+[33mcommit 5df94f54fe970ab6aebcb18ff87b821ac5804f8d[m
+Author: Yehor Savchenko <20github23@gmail.com>
+Date:   Tue Oct 17 00:38:46 2023 +0300
+
+    Add line in demo.txt
+
+[33mcommit 3c4b2322d4e02d4bf651dceabf8b0cb0b5c50a40[m
+Author: Yehor Savchenko <20github23@gmail.com>
+Date:   Tue Oct 17 00:27:14 2023 +0300
+
+    Change demo.txt
+
+[33mcommit ba74121e64181c62db8354799197ba4d799f2143[m
+Author: Yehor Savchenko <20github23@gmail.com>
+Date:   Tue Oct 17 00:24:53 2023 +0300
+
+    Chenge Program.cs and info.txt
+
+[33mcommit 2f96eb85819bc88c545851ec7ef83ae289b35396[m
+Author: Yehor Savchenko <20github23@gmail.com>
+Date:   Tue Oct 17 00:21:21 2023 +0300
+
+    Create Files
